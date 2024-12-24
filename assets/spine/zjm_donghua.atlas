@@ -1,0 +1,181 @@
+
+zjm_donghua.png
+size: 432,142
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgb1
+  rotate: false
+  xy: 190, 5
+  size: 76, 60
+  orig: 78, 62
+  offset: 1, 1
+  index: -1
+bgb2
+  rotate: true
+  xy: 317, 65
+  size: 52, 36
+  orig: 54, 38
+  offset: 1, 1
+  index: -1
+bgb3
+  rotate: false
+  xy: 173, 67
+  size: 78, 47
+  orig: 80, 49
+  offset: 1, 1
+  index: -1
+bgb4
+  rotate: true
+  xy: 355, 65
+  size: 52, 28
+  orig: 54, 30
+  offset: 1, 1
+  index: -1
+bst
+  rotate: true
+  xy: 88, 67
+  size: 47, 83
+  orig: 49, 85
+  offset: 1, 1
+  index: -1
+bt1
+  rotate: true
+  xy: 351, 119
+  size: 21, 46
+  orig: 23, 49
+  offset: 1, 1
+  index: -1
+bt2
+  rotate: false
+  xy: 86, 2
+  size: 40, 63
+  orig: 42, 65
+  offset: 1, 1
+  index: -1
+bt4
+  rotate: false
+  xy: 86, 2
+  size: 40, 63
+  orig: 42, 65
+  offset: 1, 1
+  index: -1
+bt3
+  rotate: true
+  xy: 295, 119
+  size: 21, 54
+  orig: 23, 56
+  offset: 1, 1
+  index: -1
+btou
+  rotate: false
+  xy: 2, 73
+  size: 84, 67
+  orig: 86, 69
+  offset: 1, 1
+  index: -1
+bx1
+  rotate: true
+  xy: 300, 16
+  size: 49, 15
+  orig: 51, 17
+  offset: 1, 1
+  index: -1
+bx2
+  rotate: true
+  xy: 385, 73
+  size: 44, 14
+  orig: 46, 16
+  offset: 1, 1
+  index: -1
+byy
+  rotate: false
+  xy: 88, 116
+  size: 124, 24
+  orig: 126, 26
+  offset: 1, 1
+  index: -1
+xxgb2
+  rotate: true
+  xy: 351, 28
+  size: 35, 33
+  orig: 37, 35
+  offset: 1, 1
+  index: -1
+xxxgb1
+  rotate: false
+  xy: 401, 74
+  size: 28, 32
+  orig: 30, 34
+  offset: 1, 1
+  index: -1
+xxxhan1
+  rotate: false
+  xy: 317, 20
+  size: 32, 43
+  orig: 34, 45
+  offset: 1, 1
+  index: -1
+xxxhan2
+  rotate: false
+  xy: 268, 4
+  size: 30, 61
+  orig: 32, 63
+  offset: 1, 1
+  index: -1
+xxxst
+  rotate: true
+  xy: 2, 9
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+xxxtou
+  rotate: false
+  xy: 128, 3
+  size: 60, 62
+  orig: 62, 64
+  offset: 1, 1
+  index: -1
+xxxtoufa
+  rotate: false
+  xy: 253, 67
+  size: 62, 48
+  orig: 62, 49
+  offset: 0, 1
+  index: -1
+xxxtui1
+  rotate: true
+  xy: 386, 11
+  size: 27, 29
+  orig: 29, 31
+  offset: 1, 1
+  index: -1
+xxxtui2
+  rotate: true
+  xy: 317, 2
+  size: 16, 31
+  orig: 18, 33
+  offset: 1, 1
+  index: -1
+xxxyy
+  rotate: false
+  xy: 214, 117
+  size: 79, 23
+  orig: 81, 25
+  offset: 1, 1
+  index: -1
+xxxz1
+  rotate: false
+  xy: 401, 108
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+xxxz2
+  rotate: false
+  xy: 386, 40
+  size: 30, 31
+  orig: 36, 33
+  offset: 1, 1
+  index: -1

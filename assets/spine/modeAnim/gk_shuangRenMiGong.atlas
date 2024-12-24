@@ -1,0 +1,27 @@
+
+gk_shuangRenMiGong.png
+size: 498,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kuang
+  rotate: false
+  xy: 2, 2
+  size: 452, 273
+  orig: 452, 273
+  offset: 0, 0
+  index: -1
+mg_jueSe_1
+  rotate: false
+  xy: 456, 234
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1
+mg_jueSe_2
+  rotate: false
+  xy: 456, 191
+  size: 40, 41
+  orig: 42, 43
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,395 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_taoTuoChengGong",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.4,
+  "sample": 25,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "New Sprite(Splash)": {
+        "props": {
+          "opacity": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 0.2,
+              "value": 180
+            }
+          ]
+        }
+      },
+      "mask": {
+        "props": {
+          "width": [
+            {
+              "frame": 0.12,
+              "value": 0,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.4,
+              "value": 2000
+            }
+          ],
+          "height": [
+            {
+              "frame": 0.12,
+              "value": 0,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.4,
+              "value": 2000
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.2,
+              "value": 0
+            },
+            {
+              "frame": 0.4,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_1/ef_js_chengGong_1 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.4,
+              "value": 255
+            },
+            {
+              "frame": 0.6,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_1/New Node_1": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.2,
+              "value": false
+            },
+            {
+              "frame": 0.4,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.48,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.68,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.48,
+              "value": 0
+            },
+            {
+              "frame": 0.68,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_2/ef_js_chengGong_2 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.68,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 0.88,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.68,
+              "value": 255
+            },
+            {
+              "frame": 0.88,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_2/New Node_2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.48,
+              "value": false
+            },
+            {
+              "frame": 0.68,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.6,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.6,
+              "value": 0
+            },
+            {
+              "frame": 0.8,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_3/ef_js_chengGong_3 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.8,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "cubicOut"
+            },
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.8,
+              "value": 255
+            },
+            {
+              "frame": 1,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_3/New Node_3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0.6,
+              "value": false
+            },
+            {
+              "frame": 0.8,
+              "value": true
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_4": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 3,
+                "y": 3
+              },
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 1.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1,
+              "value": 0
+            },
+            {
+              "frame": 1.2,
+              "value": 255
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_4/ef_js_chengGong_4 copy": {
+        "props": {
+          "scale": [
+            {
+              "frame": 1.2,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            },
+            {
+              "frame": 1.4,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2,
+                "y": 2
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 1.2,
+              "value": 255
+            },
+            {
+              "frame": 1.4,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "ef_js_chengGong_4/New Node_4": {
+        "props": {
+          "active": [
+            {
+              "frame": 1,
+              "value": false
+            },
+            {
+              "frame": 1.2,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.4,
+      "func": "playSFX",
+      "params": []
+    },
+    {
+      "frame": 0.68,
+      "func": "playSFX",
+      "params": []
+    },
+    {
+      "frame": 0.88,
+      "func": "playSFX",
+      "params": []
+    },
+    {
+      "frame": 1.2,
+      "func": "playSFX",
+      "params": []
+    }
+  ]
+}

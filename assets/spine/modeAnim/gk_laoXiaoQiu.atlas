@@ -1,0 +1,48 @@
+
+gk_laoXiaoQiu.png
+size: 781,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hong1
+  rotate: true
+  xy: 2, 2
+  size: 101, 179
+  orig: 101, 179
+  offset: 0, 0
+  index: -1
+hong2
+  rotate: true
+  xy: 364, 9
+  size: 94, 177
+  orig: 96, 179
+  offset: 1, 1
+  index: -1
+lan1
+  rotate: true
+  xy: 183, 2
+  size: 101, 179
+  orig: 101, 179
+  offset: 0, 0
+  index: -1
+lan2
+  rotate: true
+  xy: 543, 9
+  size: 94, 177
+  orig: 96, 179
+  offset: 1, 1
+  index: -1
+lxq_img_qiu_1
+  rotate: false
+  xy: 722, 56
+  size: 57, 47
+  orig: 59, 49
+  offset: 1, 1
+  index: -1
+lxq_img_qiu_2
+  rotate: false
+  xy: 722, 7
+  size: 57, 47
+  orig: 59, 49
+  offset: 1, 1
+  index: -1

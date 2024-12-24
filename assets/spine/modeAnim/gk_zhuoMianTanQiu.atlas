@@ -1,0 +1,27 @@
+
+gk_zhuoMianTanQiu.png
+size: 381,135
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zmtq_img_hong
+  rotate: false
+  xy: 2, 2
+  size: 148, 131
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+zmtq_img_lan
+  rotate: false
+  xy: 152, 2
+  size: 148, 131
+  orig: 148, 131
+  offset: 0, 0
+  index: -1
+zmtq_img_qiu
+  rotate: true
+  xy: 302, 39
+  size: 94, 77
+  orig: 94, 77
+  offset: 0, 0
+  index: -1

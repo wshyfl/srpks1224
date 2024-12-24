@@ -1,0 +1,118 @@
+
+gk_mengGuiSuShe.png
+size: 661,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JueSe1_tou
+  rotate: false
+  xy: 557, 161
+  size: 60, 52
+  orig: 62, 55
+  offset: 1, 2
+  index: -1
+JueSe1_youbi
+  rotate: true
+  xy: 628, 267
+  size: 12, 29
+  orig: 14, 31
+  offset: 1, 1
+  index: -1
+JueSe1_youbi1
+  rotate: false
+  xy: 628, 302
+  size: 28, 25
+  orig: 30, 27
+  offset: 1, 1
+  index: -1
+JueSe1_zuobi
+  rotate: false
+  xy: 619, 169
+  size: 40, 44
+  orig: 42, 46
+  offset: 1, 1
+  index: -1
+bj2
+  rotate: false
+  xy: 2, 2
+  size: 553, 410
+  orig: 553, 410
+  offset: 0, 0
+  index: -1
+ef_hit_zh_1
+  rotate: true
+  xy: 628, 329
+  size: 34, 28
+  orig: 36, 31
+  offset: 1, 2
+  index: -1
+ef_hit_zh_2
+  rotate: false
+  xy: 610, 8
+  size: 45, 42
+  orig: 49, 46
+  offset: 2, 2
+  index: -1
+ef_hit_zh_3
+  rotate: true
+  xy: 557, 57
+  size: 48, 52
+  orig: 53, 56
+  offset: 2, 2
+  index: -1
+ef_hit_zh_4
+  rotate: true
+  xy: 557, 215
+  size: 60, 65
+  orig: 63, 69
+  offset: 1, 2
+  index: -1
+ef_hit_zh_5
+  rotate: true
+  xy: 619, 131
+  size: 36, 37
+  orig: 40, 41
+  offset: 2, 2
+  index: -1
+ef_hit_zh_6
+  rotate: false
+  xy: 628, 281
+  size: 23, 19
+  orig: 25, 21
+  offset: 1, 1
+  index: -1
+jinbi
+  rotate: true
+  xy: 628, 365
+  size: 47, 26
+  orig: 49, 28
+  offset: 1, 1
+  index: -1
+mg_img_kuang_3
+  rotate: false
+  xy: 557, 10
+  size: 51, 45
+  orig: 54, 47
+  offset: 1, 1
+  index: -1
+mg_img_pao_2_1
+  rotate: true
+  xy: 557, 107
+  size: 52, 59
+  orig: 54, 61
+  offset: 1, 1
+  index: -1
+mg_img_pao_2_2
+  rotate: true
+  xy: 611, 52
+  size: 53, 44
+  orig: 56, 46
+  offset: 2, 1
+  index: -1
+shenti
+  rotate: false
+  xy: 557, 277
+  size: 69, 135
+  orig: 69, 135
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+gk_qiangDiPan.png
+size: 183,158
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 82
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 2, 6
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+h_shenti
+  rotate: false
+  xy: 78, 109
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+h_yt1
+  rotate: false
+  xy: 151, 109
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+h_zt1
+  rotate: false
+  xy: 151, 109
+  size: 27, 47
+  orig: 27, 47
+  offset: 0, 0
+  index: -1
+l_shenti
+  rotate: true
+  xy: 78, 39
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+l_yt1
+  rotate: true
+  xy: 78, 11
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+l_zt1
+  rotate: false
+  xy: 152, 4
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 125, 51
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+zb1
+  rotate: false
+  xy: 125, 2
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1

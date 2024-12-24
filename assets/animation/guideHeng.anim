@@ -1,0 +1,35 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guideHeng",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.375,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "shou_1": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -102.096,
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 0.7083333333333334,
+              "value": 211.897,
+              "curve": "cubicInOut"
+            },
+            {
+              "frame": 1.375,
+              "value": -102.096
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

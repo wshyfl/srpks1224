@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "guideDian",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4722222222222222,
+  "sample": 36,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "shou_1": {
+        "comps": {
+          "cc.Sprite": {
+            "spriteFrame": [
+              {
+                "frame": 0,
+                "value": {
+                  "__uuid__": "bf7437e8-d2a6-472f-b13c-28cacd407856"
+                }
+              },
+              {
+                "frame": 0.1111111111111111,
+                "value": {
+                  "__uuid__": "8fc793c3-8922-40f5-b636-9db12e140ae1"
+                }
+              },
+              {
+                "frame": 0.2222222222222222,
+                "value": {
+                  "__uuid__": "7a4c7896-28bc-4b83-ab11-65e720c5b111"
+                }
+              },
+              {
+                "frame": 0.3333333333333333,
+                "value": {
+                  "__uuid__": "841f400a-9979-4059-a96f-a9a7d9f02ab7"
+                }
+              },
+              {
+                "frame": 0.4444444444444444,
+                "value": {
+                  "__uuid__": "bce851da-a92e-48ed-9cd4-69ec2c171beb"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "events": []
+}

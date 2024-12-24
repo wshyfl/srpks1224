@@ -1,0 +1,34 @@
+
+gk_muTouRen.png
+size: 505,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guang
+  rotate: true
+  xy: 2, 8
+  size: 179, 266
+  orig: 201, 302
+  offset: 11, 33
+  index: -1
+hong
+  rotate: true
+  xy: 395, 42
+  size: 60, 108
+  orig: 62, 110
+  offset: 1, 1
+  index: -1
+lang
+  rotate: true
+  xy: 395, 104
+  size: 83, 108
+  orig: 85, 110
+  offset: 1, 1
+  index: -1
+ren
+  rotate: true
+  xy: 270, 2
+  size: 185, 123
+  orig: 187, 125
+  offset: 1, 1
+  index: -1

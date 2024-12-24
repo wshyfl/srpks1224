@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="29" height="40" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="mode1Tree" tilewidth="50" tileheight="50">
+  <image source="mode1Tree.png" width="500" height="500"/>
+ </tileset>
+ <layer name="mode1Tree" width="29" height="40">
+  <data encoding="base64" compression="zlib">
+   eJy9l1lvUzEQhf2URmJrI7ElldhKJZaGSiy3RWJJXxLgqQH+/19hLOZTT059byIesHRk3/HYPh4fj5NpKWUquBG42WM7+ke0xt8K3A7cCdwN3Ev7q8Brsc3Nd25gbvfT8eus7wceBB4GljLH+8CHwJlAfbE5tz6/UaK2nwSeBp7Z/F8CXwMXAvXFBreLnHPP/LCNA/tZj8VGvZDvzsaNrB9u9B8EJjk/OMh5pjl+LfOMBMwxkXHedtvbwLvAYbnSYJ13lrYj4+JQPqM8a+XUJadlzl3n/RT4HDhOOzqdydp6J1Rr0wEua+EELu27Ah3X9nOB3hnV2lGu+y3wPfDD+Om97eOGjtW2TH6MVa3Nc92fgV+B3+X6XWdOzmzV4NXCWMaqLl3HakMnrf6ltC+zxh9f1TZ9NQZd2dRlJ210UtuqgT5d44+NHDKSPtVF5YTuZ2mjXe2qgZn4EmtsjwKPs00O2c/5/K4MwfNN1eRxnjVt6heBl9kmh+gZL8rVXVlmDW/azknvBedW79SbwGn5q0naqsOVfW/Tn56/3ott8dH3R98a1Qax8nvN+TsX4gD0jiu/s9L/ZlUOnawHv743mrXRjd7xatd3alHab5bzYS59r3UvrI1ulM+2uKMH4k8OYK5xucrzuhfyPv6eEzRng65s3hfir7na3zvNAXDsywnEntzQ0qSCNfkmzhobz6WeU4gzuYFv1SS5Zyprok/i7NxU935/ybn++0Lz8dDvyL67q7r3+zsR7Aufdbmew/1306ps5py93LvnRH97DhPkO/i0cvgk/fSN0bdkabaWTx1/bHvx3Kx8D4VLrdGdasR9qDvxObW9kIe7rFfGYS3f6I63BK3Xvsus12Xzv0ON70fby3nazjMOcGjV6I53A627r/53qGv+73KSqIX9L8xnZf1ayAeUboc1O/Fj/32l1U8+oDhf1ea2MuS73GE8RbXpBc3v4kvZJY6qTT8bNL9o+FL87DSOJ9J2/hQ/GzQ/VPzstOie4d8qfefS0qeW9TC1a/xbZ+B60RgQp8UAxz69OXf1G9KLx0nn4Qz7xvv5qV9LLxSPk85DzHx8X+zV7w+aUXYG
+  </data>
+ </layer>
+</map>

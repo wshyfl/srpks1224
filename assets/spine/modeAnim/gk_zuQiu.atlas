@@ -1,0 +1,83 @@
+
+gk_zuQiu.png
+size: 597,267
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+h_shenti
+  rotate: false
+  xy: 492, 170
+  size: 71, 47
+  orig: 73, 49
+  offset: 1, 1
+  index: -1
+tou
+  rotate: false
+  xy: 492, 49
+  size: 58, 58
+  orig: 60, 60
+  offset: 1, 1
+  index: -1
+yb1
+  rotate: false
+  xy: 565, 169
+  size: 25, 47
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+yingzi
+  rotate: false
+  xy: 492, 219
+  size: 74, 46
+  orig: 76, 48
+  offset: 1, 1
+  index: -1
+yt1
+  rotate: false
+  xy: 568, 218
+  size: 27, 47
+  orig: 29, 49
+  offset: 1, 1
+  index: -1
+zt1
+  rotate: false
+  xy: 568, 218
+  size: 27, 47
+  orig: 29, 49
+  offset: 1, 1
+  index: -1
+zb1
+  rotate: false
+  xy: 553, 120
+  size: 25, 47
+  orig: 27, 49
+  offset: 1, 1
+  index: -1
+zq_img_b
+  rotate: false
+  xy: 2, 2
+  size: 488, 263
+  orig: 488, 263
+  offset: 0, 0
+  index: -1
+zq_js_2_st
+  rotate: false
+  xy: 492, 2
+  size: 68, 45
+  orig: 70, 47
+  offset: 1, 1
+  index: -1
+zq_js_2_tui
+  rotate: false
+  xy: 552, 62
+  size: 26, 45
+  orig: 28, 47
+  offset: 1, 1
+  index: -1
+zuqiu
+  rotate: false
+  xy: 492, 109
+  size: 59, 59
+  orig: 61, 61
+  offset: 1, 1
+  index: -1

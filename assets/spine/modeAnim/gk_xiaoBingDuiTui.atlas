@@ -1,0 +1,97 @@
+
+gk_xiaoBingDuiTui.png
+size: 182,523
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz_1
+  rotate: false
+  xy: 2, 3
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+bz_2
+  rotate: false
+  xy: 88, 76
+  size: 89, 96
+  orig: 91, 98
+  offset: 1, 1
+  index: -1
+bz_3
+  rotate: true
+  xy: 90, 425
+  size: 96, 90
+  orig: 98, 92
+  offset: 1, 1
+  index: -1
+bz_4
+  rotate: true
+  xy: 2, 275
+  size: 104, 98
+  orig: 106, 100
+  offset: 1, 1
+  index: -1
+bz_5
+  rotate: true
+  xy: 2, 169
+  size: 104, 84
+  orig: 106, 86
+  offset: 1, 1
+  index: -1
+bz_6
+  rotate: true
+  xy: 2, 67
+  size: 100, 84
+  orig: 102, 86
+  offset: 1, 1
+  index: -1
+bz_7
+  rotate: true
+  xy: 88, 174
+  size: 99, 84
+  orig: 101, 86
+  offset: 1, 1
+  index: -1
+xbdt_jueSe_1_1
+  rotate: false
+  xy: 66, 2
+  size: 50, 63
+  orig: 52, 65
+  offset: 1, 1
+  index: -1
+xbdt_jueSe_1_2
+  rotate: false
+  xy: 102, 341
+  size: 51, 51
+  orig: 53, 53
+  offset: 1, 1
+  index: -1
+xbdt_jueSe_1_3
+  rotate: true
+  xy: 102, 286
+  size: 53, 24
+  orig: 55, 26
+  offset: 1, 1
+  index: -1
+xbdt_jueSe_1_4
+  rotate: true
+  xy: 90, 394
+  size: 29, 51
+  orig: 31, 53
+  offset: 1, 1
+  index: -1
+xbdt_paoDan
+  rotate: false
+  xy: 118, 19
+  size: 56, 55
+  orig: 58, 57
+  offset: 1, 1
+  index: -1
+xbdt_pao_2_1
+  rotate: false
+  xy: 2, 381
+  size: 86, 140
+  orig: 88, 142
+  offset: 1, 1
+  index: -1

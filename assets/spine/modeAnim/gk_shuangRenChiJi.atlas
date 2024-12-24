@@ -1,0 +1,76 @@
+
+gk_shuangRenChiJi.png
+size: 132,264
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cj_jueSe_1_1
+  rotate: true
+  xy: 72, 107
+  size: 63, 58
+  orig: 65, 60
+  offset: 1, 1
+  index: -1
+cj_jueSe_1_2
+  rotate: false
+  xy: 67, 7
+  size: 63, 35
+  orig: 66, 37
+  offset: 2, 1
+  index: -1
+cj_jueSe_1_3
+  rotate: false
+  xy: 2, 194
+  size: 70, 68
+  orig: 72, 70
+  offset: 1, 1
+  index: -1
+cj_jueSe_2_1
+  rotate: false
+  xy: 2, 28
+  size: 63, 58
+  orig: 65, 60
+  offset: 1, 1
+  index: -1
+cj_jueSe_2_2
+  rotate: false
+  xy: 2, 88
+  size: 64, 36
+  orig: 66, 38
+  offset: 1, 1
+  index: -1
+cj_jueSe_2_3
+  rotate: false
+  xy: 2, 126
+  size: 68, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+cj_npc_1_1
+  rotate: false
+  xy: 74, 172
+  size: 42, 42
+  orig: 44, 44
+  offset: 1, 1
+  index: -1
+cj_npc_2_1
+  rotate: false
+  xy: 74, 216
+  size: 53, 46
+  orig: 55, 48
+  offset: 1, 1
+  index: -1
+cj_npc_3_1
+  rotate: false
+  xy: 68, 44
+  size: 61, 61
+  orig: 63, 63
+  offset: 1, 1
+  index: -1
+zidan
+  rotate: true
+  xy: 2, 2
+  size: 24, 18
+  orig: 26, 20
+  offset: 1, 1
+  index: -1

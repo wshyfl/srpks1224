@@ -1,0 +1,23 @@
+info face="方正兰亭特黑扁简体" size=100 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=3 padding=10,10,10,10 spacing=0,0 outline=0
+common lineHeight=100 base=73 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="yxn_shuZi_lianJi_0.png"
+chars count=19
+char id=42   x=210   y=169   width=62    height=53    xoffset=-7    yoffset=-2    xadvance=48    page=0  chnl=15
+char id=43   x=131   y=169   width=79    height=64    xoffset=-7    yoffset=9     xadvance=65    page=0  chnl=15
+char id=45   x=360   y=168   width=73    height=30    xoffset=-7    yoffset=26    xadvance=57    page=0  chnl=15
+char id=46   x=320   y=168   width=40    height=36    xoffset=-7    yoffset=47    xadvance=26    page=0  chnl=15
+char id=47   x=0     y=0     width=53    height=92    xoffset=-10   yoffset=-4    xadvance=33    page=0  chnl=15
+char id=48   x=138   y=0     width=84    height=85    xoffset=-7    yoffset=-2    xadvance=70    page=0  chnl=15
+char id=49   x=169   y=85    width=65    height=84    xoffset=-8    yoffset=-1    xadvance=55    page=0  chnl=15
+char id=50   x=0     y=92    width=82    height=85    xoffset=-7    yoffset=-2    xadvance=67    page=0  chnl=15
+char id=51   x=222   y=0     width=84    height=85    xoffset=-7    yoffset=-2    xadvance=70    page=0  chnl=15
+char id=52   x=82    y=85    width=87    height=84    xoffset=-8    yoffset=-1    xadvance=70    page=0  chnl=15
+char id=53   x=234   y=85    width=83    height=83    xoffset=-7    yoffset=0     xadvance=69    page=0  chnl=15
+char id=54   x=306   y=0     width=84    height=85    xoffset=-7    yoffset=-2    xadvance=69    page=0  chnl=15
+char id=55   x=317   y=85    width=82    height=83    xoffset=-8    yoffset=0     xadvance=66    page=0  chnl=15
+char id=56   x=53    y=0     width=85    height=85    xoffset=-7    yoffset=-2    xadvance=70    page=0  chnl=15
+char id=57   x=390   y=0     width=84    height=85    xoffset=-7    yoffset=-2    xadvance=69    page=0  chnl=15
+char id=58   x=0     y=177   width=40    height=66    xoffset=-6    yoffset=17    xadvance=29    page=0  chnl=15
+char id=96   x=272   y=168   width=48    height=36    xoffset=-10   yoffset=-4    xadvance=29    page=0  chnl=15
+char id=115  x=399   y=85    width=79    height=67    xoffset=-7    yoffset=16    xadvance=65    page=0  chnl=15
+char id=120  x=40    y=177   width=91    height=65    xoffset=-10   yoffset=17    xadvance=70    page=0  chnl=15

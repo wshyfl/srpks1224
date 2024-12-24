@@ -1,0 +1,96 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "roleJump",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.32,
+  "sample": 50,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "props": {
+      "position": []
+    },
+    "paths": {
+      "spr": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                0,
+                0
+              ],
+              "curve": [
+                0.06,
+                0.12,
+                0.3330864197530864,
+                0.5781893004115226
+              ]
+            },
+            {
+              "frame": 0.14,
+              "value": [
+                0,
+                10,
+                0
+              ],
+              "curve": [
+                0.6211934156378601,
+                0.10288065843621419,
+                0.8806584362139916,
+                0.7057613168724279
+              ]
+            },
+            {
+              "frame": 0.32,
+              "value": [
+                0,
+                0,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "New Sprite(Splash)": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 0.9
+              }
+            },
+            {
+              "frame": 0.14,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.7,
+                "y": 0.7
+              }
+            },
+            {
+              "frame": 0.32,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.9,
+                "y": 0.9
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.32,
+      "func": "jump",
+      "params": []
+    }
+  ]
+}

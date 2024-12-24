@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "shuangRenChiJi_muBei",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.125,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "cj_img_siWang": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 2.359,
+                "y": 2.359
+              },
+              "curve": "linear"
+            },
+            {
+              "frame": 0.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                0,
+                72.01,
+                0
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.125,
+              "value": [
+                0,
+                -39.4,
+                0
+              ]
+            }
+          ]
+        }
+      },
+      "New Node": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": true
+            }
+          ]
+        }
+      },
+      "cj_jueSe_2_5": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

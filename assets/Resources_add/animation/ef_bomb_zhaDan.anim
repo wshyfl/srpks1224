@@ -1,0 +1,155 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_bomb_zhaDan",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.2916666666666667,
+  "sample": 24,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "paths": {
+      "ef_bomb_zhaDan_3": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 0.08333333333333333,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": [
+                0.53094688221709,
+                0.09503464203233258,
+                1.0031177829099307,
+                0.3189376443418013
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "ef_bomb_zhaDan_2": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.16666666666666666,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0.3,
+                "y": 0.3
+              },
+              "curve": [
+                -0.0031177829099307518,
+                0.9264434180138569,
+                0.4055427251732101,
+                0.6595842956120092
+              ]
+            },
+            {
+              "frame": 0.25,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              },
+              "curve": "constant"
+            },
+            {
+              "frame": 0.2916666666666667,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              }
+            }
+          ]
+        }
+      },
+      "ef_bomb_zhaDan_1": {
+        "props": {
+          "scale": [
+            {
+              "frame": 0.125,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 0,
+                "y": 0
+              },
+              "curve": [
+                0.2047344110854503,
+                0.9235565819861432,
+                0.44018475750577357,
+                0.8934180138568129
+              ]
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": {
+                "__type__": "cc.Vec2",
+                "x": 1,
+                "y": 1
+              }
+            }
+          ],
+          "opacity": [
+            {
+              "frame": 0.125,
+              "value": 255
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": 0
+            }
+          ]
+        }
+      },
+      "New Node copy_2": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": true
+            }
+          ]
+        }
+      },
+      "New Node copy_3": {
+        "props": {
+          "active": [
+            {
+              "frame": 0,
+              "value": false
+            },
+            {
+              "frame": 0.20833333333333334,
+              "value": true
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

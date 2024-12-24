@@ -1,0 +1,76 @@
+
+gk_paoDanZhanChuan.png
+size: 571,219
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bz_1
+  rotate: false
+  xy: 507, 55
+  size: 62, 62
+  orig: 64, 64
+  offset: 1, 1
+  index: -1
+bz_2
+  rotate: true
+  xy: 311, 3
+  size: 89, 96
+  orig: 91, 98
+  offset: 1, 1
+  index: -1
+bz_3
+  rotate: false
+  xy: 409, 2
+  size: 96, 90
+  orig: 98, 92
+  offset: 1, 1
+  index: -1
+bz_4
+  rotate: false
+  xy: 462, 119
+  size: 104, 98
+  orig: 106, 100
+  offset: 1, 1
+  index: -1
+bz_5
+  rotate: false
+  xy: 2, 8
+  size: 104, 84
+  orig: 106, 86
+  offset: 1, 1
+  index: -1
+bz_6
+  rotate: false
+  xy: 108, 8
+  size: 100, 84
+  orig: 102, 86
+  offset: 1, 1
+  index: -1
+bz_7
+  rotate: false
+  xy: 210, 8
+  size: 99, 84
+  orig: 101, 86
+  offset: 1, 1
+  index: -1
+paodan
+  rotate: false
+  xy: 507, 15
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+pdzc_img_chuan_1
+  rotate: true
+  xy: 2, 94
+  size: 123, 228
+  orig: 125, 230
+  offset: 1, 1
+  index: -1
+pdzc_img_chuan_2
+  rotate: true
+  xy: 232, 94
+  size: 123, 228
+  orig: 125, 230
+  offset: 1, 1
+  index: -1

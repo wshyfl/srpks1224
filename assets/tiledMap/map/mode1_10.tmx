@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="19" tilewidth="50" tileheight="50">
+ <tileset firstgid="1" name="mode1Wall" tilewidth="50" tileheight="50">
+  <image source="mode1Wall.png" width="450" height="300"/>
+ </tileset>
+ <tileset firstgid="55" name="mode1Tree" tilewidth="50" tileheight="50">
+  <image source="mode1Tree.png" width="500" height="500"/>
+ </tileset>
+ <layer name="soil" width="15" height="19">
+  <data encoding="base64" compression="zlib">
+   eJyzZmBgsCYTW1IRW1HZPGLtQ7eX3u6gV7jQ0l+DLczQ3UTIfVaD1A/DFQMAdFo/nw==
+  </data>
+ </layer>
+ <layer name="wall" width="15" height="19">
+  <data encoding="base64" compression="zlib">
+   eJyVU8sOwjAMq4DbxtiBCi5j47CN0x7//3O0ki0ZUyFRyYrSxnHTpHUI4fwHrrBNQkwYC5gS5oRX+FxRbMaScJd8s/jUIQbki5KHWhFnGbv5s+1XyPcEtzKdG2Lrwn5JV+vN/ga7yx2ixNaSL/stuF3CiriDxZEbRUf9k/ir6KtuZ9xHob4j4pw7GVf7q7pbgcv6qOd9vkg//K1Y3wJE0XafXPazl7yr7De4ZwduW9CdYBd5T/Z1Dd9zp1yfZ845uewr73eTmFFiN+Oqvr6zzrPOYK4vFGwLq/8oyN6vpf/X56c338HzIeENt6kcHw==
+  </data>
+ </layer>
+ <objectgroup name="road">
+  <object name="road" x="547.001" y="245.667" width="153.334" height="50.9997"/>
+  <object name="road" x="148.001" y="796.333" width="52.0003" height="104.999"/>
+  <object name="road" x="99.667" y="746.333" width="103.666" height="53.667"/>
+  <object name="road" x="95.3327" y="50" width="505.333" height="47.3333"/>
+  <object name="road" x="248.666" y="295.667" width="50.6664" height="156.333"/>
+  <object name="road" x="149.666" y="546.667" width="151.334" height="52"/>
+  <object name="road" x="48.333" y="647.333" width="198.666" height="49.6667"/>
+  <object name="road" x="648.334" y="798.333" width="53.9997" height="102.667"/>
+  <object name="road" x="146.667" y="347.334" width="53" height="201.334"/>
+  <object name="road" x="647.5" y="48.6673" width="55.061" height="149.394"/>
+  <object name="road" x="550.666" y="548" width="99.6663" height="49.667"/>
+  <object name="road" x="447" y="599.167" width="53.6667" height="251.333"/>
+  <object name="road" x="545.334" y="748" width="155.667" height="55"/>
+  <object name="road" x="248.501" y="599" width="49.667" height="302"/>
+  <object name="road" x="599.499" y="449.666" width="52.3337" height="52.6667"/>
+  <object name="road" x="345.5" y="547.667" width="154.334" height="52.6667"/>
+  <object name="road" x="47.3331" y="248.334" width="54.667" height="352"/>
+  <object name="road" x="45.5003" y="696.333" width="57.6663" height="104.667"/>
+  <object name="road" x="249.667" y="449.834" width="248.666" height="50.6667"/>
+  <object name="road" x="296.334" y="847.334" width="306" height="53.6671"/>
+  <object name="road" x="98.167" y="247.666" width="55.667" height="54.6663"/>
+  <object name="road" x="248.834" y="248" width="153.334" height="50.6667"/>
+  <object name="road" x="149.833" y="149" width="50.0004" height="151"/>
+  <object name="road" x="449.834" y="146.001" width="199.333" height="51.6664"/>
+  <object name="road" x="350.167" y="648" width="50.3333" height="204"/>
+  <object name="road" x="100.833" y="449.334" width="50.3333" height="53.3337"/>
+  <object name="road" x="47.5003" y="48.6668" width="51" height="148.666"/>
+  <object name="road" x="548.167" y="798.666" width="53" height="53.3337"/>
+  <object name="road" x="246.834" y="147.167" width="156.666" height="52.3336"/>
+  <object name="road" x="349.5" y="347.999" width="101" height="50.667"/>
+  <object name="road" x="346.167" y="497.667" width="56.9997" height="53.3333"/>
+  <object name="road" x="98.1667" y="146.333" width="53" height="53.3337"/>
+  <object name="road" x="550.167" y="297.333" width="51.6667" height="205.334"/>
+  <object name="road" x="246.834" y="95.9998" width="53" height="53.3337"/>
+  <object name="road" x="349.167" y="298.333" width="53" height="53.3337"/>
+  <object name="road" x="48.8337" y="849.166" width="103.666" height="53.667"/>
+  <object name="road" x="649.5" y="349.166" width="48.9993" height="351"/>
+  <object name="road" x="498.834" y="649.5" width="103.666" height="53.667"/>
+  <object name="road" x="549.833" y="596.333" width="52.3337" height="52.6667"/>
+  <object name="road" x="450.667" y="196.5" width="50.6664" height="204.333"/>
+ </objectgroup>
+ <objectgroup name="pos">
+  <object name="endPos" x="246.334" y="847" width="53.3333" height="52"/>
+  <object name="playerPos1" x="646.667" y="146" width="53.3333" height="52"/>
+  <object name="playerPos2" x="498.667" y="849.333" width="48" height="52"/>
+ </objectgroup>
+ <objectgroup name="Posprop">
+  <object name="propPos1" x="149.333" y="549.333" width="49.3333" height="48"/>
+  <object name="propPos2" x="546.667" y="50.6667" width="52" height="46.6667"/>
+  <object name="propPos3" x="553.333" y="298.667" width="48" height="48"/>
+ </objectgroup>
+</map>

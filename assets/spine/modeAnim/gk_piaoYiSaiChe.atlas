@@ -1,0 +1,27 @@
+
+gk_piaoYiSaiChe.png
+size: 486,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pysc_d2k
+  rotate: false
+  xy: 2, 2
+  size: 453, 284
+  orig: 453, 284
+  offset: 0, 0
+  index: -1
+pysc_img_che_1
+  rotate: true
+  xy: 457, 244
+  size: 42, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1
+pysc_img_che_2
+  rotate: true
+  xy: 457, 200
+  size: 42, 27
+  orig: 44, 29
+  offset: 1, 1
+  index: -1

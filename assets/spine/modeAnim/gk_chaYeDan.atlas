@@ -1,0 +1,90 @@
+
+gk_chaYeDan.png
+size: 359,94
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baoshi
+  rotate: true
+  xy: 203, 39
+  size: 53, 48
+  orig: 55, 50
+  offset: 1, 1
+  index: -1
+cyd_erduo
+  rotate: true
+  xy: 178, 35
+  size: 57, 23
+  orig: 59, 25
+  offset: 1, 1
+  index: -1
+cyd_img_yingZi
+  rotate: false
+  xy: 253, 40
+  size: 104, 52
+  orig: 106, 54
+  offset: 1, 1
+  index: -1
+cyd_st_1
+  rotate: true
+  xy: 2, 3
+  size: 89, 111
+  orig: 91, 113
+  offset: 1, 1
+  index: -1
+cyd_yan_1
+  rotate: false
+  xy: 115, 8
+  size: 29, 15
+  orig: 31, 17
+  offset: 1, 1
+  index: -1
+cyd_yan_2
+  rotate: false
+  xy: 146, 16
+  size: 37, 7
+  orig: 40, 9
+  offset: 1, 1
+  index: -1
+cyd_yb
+  rotate: true
+  xy: 311, 15
+  size: 23, 37
+  orig: 25, 39
+  offset: 1, 1
+  index: -1
+cyd_yt
+  rotate: false
+  xy: 213, 2
+  size: 23, 35
+  orig: 26, 37
+  offset: 2, 1
+  index: -1
+cyd_zb
+  rotate: false
+  xy: 185, 6
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+cyd_zt
+  rotate: false
+  xy: 285, 2
+  size: 24, 36
+  orig: 26, 38
+  offset: 1, 1
+  index: -1
+cyd_zui_1
+  rotate: false
+  xy: 238, 11
+  size: 45, 26
+  orig: 47, 28
+  offset: 1, 1
+  index: -1
+zuanshi2
+  rotate: true
+  xy: 115, 25
+  size: 67, 61
+  orig: 69, 63
+  offset: 1, 1
+  index: -1

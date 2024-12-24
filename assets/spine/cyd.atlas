@@ -1,0 +1,90 @@
+
+cyd.png
+size: 277,277
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cyd_erduo
+  rotate: true
+  xy: 2, 27
+  size: 83, 33
+  orig: 85, 35
+  offset: 1, 1
+  index: -1
+cyd_st_1
+  rotate: false
+  xy: 2, 112
+  size: 130, 163
+  orig: 132, 165
+  offset: 1, 1
+  index: -1
+cyd_yan_1
+  rotate: false
+  xy: 37, 35
+  size: 40, 21
+  orig: 42, 23
+  offset: 1, 1
+  index: -1
+cyd_yan_2
+  rotate: false
+  xy: 79, 47
+  size: 54, 9
+  orig: 56, 11
+  offset: 1, 1
+  index: -1
+cyd_yb
+  rotate: true
+  xy: 50, 2
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+cyd_yt
+  rotate: false
+  xy: 134, 192
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+cyd_yt_2
+  rotate: true
+  xy: 37, 58
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+cyd_zb
+  rotate: false
+  xy: 134, 153
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+cyd_zt
+  rotate: true
+  xy: 134, 242
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+cyd_zt_2
+  rotate: false
+  xy: 102, 2
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+cyd_zui_1
+  rotate: false
+  xy: 89, 72
+  size: 65, 38
+  orig: 67, 40
+  offset: 1, 1
+  index: -1
+cyd_zui_2
+  rotate: false
+  xy: 2, 4
+  size: 46, 21
+  orig: 48, 23
+  offset: 1, 1
+  index: -1

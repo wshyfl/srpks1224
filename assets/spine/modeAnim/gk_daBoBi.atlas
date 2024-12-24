@@ -1,0 +1,27 @@
+
+gk_daBoBi.png
+size: 795,205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj
+  rotate: false
+  xy: 2, 2
+  size: 487, 201
+  orig: 489, 203
+  offset: 1, 1
+  index: -1
+dbb_jueSe_1_1
+  rotate: false
+  xy: 491, 42
+  size: 150, 161
+  orig: 150, 161
+  offset: 0, 0
+  index: -1
+jueSe_2_2
+  rotate: false
+  xy: 643, 42
+  size: 150, 161
+  orig: 150, 161
+  offset: 0, 0
+  index: -1

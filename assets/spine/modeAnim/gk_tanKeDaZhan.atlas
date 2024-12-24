@@ -1,0 +1,48 @@
+
+gk_tanKeDaZhan.png
+size: 227,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bj2
+  rotate: false
+  xy: 2, 98
+  size: 175, 147
+  orig: 175, 147
+  offset: 0, 0
+  index: -1
+pao
+  rotate: true
+  xy: 176, 2
+  size: 67, 42
+  orig: 69, 44
+  offset: 1, 1
+  index: -1
+tkdz_img_tanKe_1_1
+  rotate: true
+  xy: 179, 159
+  size: 86, 46
+  orig: 88, 48
+  offset: 1, 1
+  index: -1
+tkdz_img_tanKe_1_2
+  rotate: false
+  xy: 2, 5
+  size: 85, 91
+  orig: 87, 93
+  offset: 1, 1
+  index: -1
+tkdz_img_tanKe_2_1
+  rotate: true
+  xy: 179, 71
+  size: 86, 46
+  orig: 88, 48
+  offset: 1, 1
+  index: -1
+tkdz_img_tanKe_2_2
+  rotate: false
+  xy: 89, 5
+  size: 85, 91
+  orig: 87, 93
+  offset: 1, 1
+  index: -1

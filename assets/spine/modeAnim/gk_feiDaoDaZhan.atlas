@@ -1,0 +1,34 @@
+
+gk_feiDaoDaZhan.png
+size: 468,294
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fddz_feiDao_1
+  rotate: false
+  xy: 294, 46
+  size: 56, 246
+  orig: 56, 246
+  offset: 0, 0
+  index: -1
+fddz_feiDao_2
+  rotate: false
+  xy: 352, 46
+  size: 56, 246
+  orig: 56, 246
+  offset: 0, 0
+  index: -1
+fddz_feiDao_3
+  rotate: false
+  xy: 410, 46
+  size: 56, 246
+  orig: 56, 246
+  offset: 0, 0
+  index: -1
+fddz_img_baZi
+  rotate: false
+  xy: 2, 2
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
